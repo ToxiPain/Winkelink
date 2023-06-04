@@ -3,9 +3,9 @@
   "5219996125657"
   ],
   "MAX_TOKEN": 4097,
-  "OPENAI_KEY": "TU_APIKEY", 
+  "OPENAI_KEY": "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", 
   "NOTA_1": "Consigue tu ApiKey en este enlace: https://platform.openai.com/account/api-keys",
-  "ORG_ID": "TU_ID_DE_ORG",
+  "ORG_ID": "org-mB3LEeiwqQ6jYkxdAUKNJEWw",
   "NOTA_2": "Consigue tu ID de organizacion en este enlace: https://platform.openai.com/account/org-settings",
   "LOLHUMAN_KEY": "BrunoSobrino"
 }
